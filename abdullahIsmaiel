@@ -1,0 +1,5 @@
+git add abduulahIsmaiel
+git status
+git commit -m "abdullahFile"
+git status
+git log
